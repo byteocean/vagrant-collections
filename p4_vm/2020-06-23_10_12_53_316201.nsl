@@ -1,0 +1,18 @@
+; NFP SDK license issued by Netronome Systems, Inc.
+; Contact support@netronome.com should assistance be required.
+
+[Customer]
+User=Tao Li
+Email=tao.li@tu-dresden.de
+Company=Technische Universität Dresden
+Seats=2
+
+[NFP-SDK]
+
+[License]
+Expires=2021-06-23
+Issuer=octavio.ruiz@netronome.com
+Serial=316201
+
+Issued=2020-06-23
+Signature=G1H40GO6LKUHFT0R02QKD0IQN4HB6UF3E5S9HH61AD9DRAHIN5G7MT7FJJ002A5UNSA7V9C2O6BTQNDPNJC2T2T87N0I9F4EE3RU3QFEET24PT7N
